@@ -1,5 +1,5 @@
 # Setup-Desktop-on-Ubuntu-Server
-The way to settup desktop on ubuntut server that worked for me
+The way to set up desktop on ubuntu server that worked for me
 
 # How to Install Ubuntu Desktop with VNC Access on Ubuntu Server
 
